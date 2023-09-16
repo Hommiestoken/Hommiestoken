@@ -14,9 +14,9 @@ Hommiestoken is a revolutionary cryptocurrency project designed to bring real-wo
 
 ## How to Get Involved
 
-1. **Join our Community**: Connect with us on Telegram (link-to-telegram) to meet fellow supporters, ask questions, and stay updated.
+1. **Join our Community**: Connect with us on Telegram (https://t.me/hommiestoken) to meet fellow supporters, ask questions, and stay updated.
 
-2. **Follow Us**: Follow our Twitter account (link-to-twitter) for the latest news, updates, and announcements.
+2. **Follow Us**: Follow our Twitter account (https://twitter.com/HOMMIESTOKEN) for the latest news, updates, and announcements.
 
 3. **Contribute**: We welcome contributions from the community. Feel free to fork our repository, report issues, or submit pull requests.
 
