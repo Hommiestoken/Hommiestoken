@@ -1,6 +1,6 @@
 # Hommiestoken
 
-![Hommiestoken Logo](link-to-your-logo.png)
+![Hommiestoken Logo](https://imgur.com/a/2YnmQIM)
 
 Hommiestoken is a revolutionary cryptocurrency project designed to bring real-world utility to the blockchain. Our mission is to empower users with a suite of decentralized tools and applications, fostering a new era of transparency and financial inclusion.
 
