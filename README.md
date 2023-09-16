@@ -24,7 +24,7 @@ Hommiestoken is a revolutionary cryptocurrency project designed to bring real-wo
 
 ## Roadmap
 
-Our journey is just beginning. Check out our roadmap (link-to-roadmap) to see what exciting developments we have in store.
+Our journey is just beginning. Check out our roadmap at www.hommiestoken.com to see what exciting developments we have in store.
 
 ## Contact Us
 
