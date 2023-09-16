@@ -1,6 +1,6 @@
 # Hommiestoken
 
-![Hommiestoken Logo](https://imgur.com/a/2YnmQIM)
+![https://imgur.com/a/2YnmQIM](https://imgur.com/a/2YnmQIM)
 
 Hommiestoken is a revolutionary cryptocurrency project designed to bring real-world utility to the blockchain. Our mission is to empower users with a suite of decentralized tools and applications, fostering a new era of transparency and financial inclusion.
 
@@ -20,7 +20,7 @@ Hommiestoken is a revolutionary cryptocurrency project designed to bring real-wo
 
 3. **Contribute**: We welcome contributions from the community. Feel free to fork our repository, report issues, or submit pull requests.
 
-4. **Documentation**: For detailed information, check out our [official documentation](link-to-documentation).
+4. **Documentation**: For detailed information, check out our [https://hommies-token.gitbook.io/hommies-token/](link-to-documentation).
 
 ## Roadmap
 
@@ -28,7 +28,7 @@ Our journey is just beginning. Check out our roadmap (link-to-roadmap) to see wh
 
 ## Contact Us
 
-Have questions or want to get in touch with our team? Email us at [your-email@example.com](mailto:your-email@example.com).
+Have questions or want to get in touch with our team? Email us at [contact@hommiestoken.com](mailto:your-email@example.com).
 
 Thank you for being part of the Hommiestoken revolution!
 
